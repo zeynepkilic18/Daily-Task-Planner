@@ -32,7 +32,7 @@ struct LoginView: View {
                         SecureField("Password", text: $viewModel.password)
                             .textFieldStyle(DefaultTextFieldStyle())
                         
-                        TLButton(title: "Log In", background: .gray) {
+                        TLButton(title: "Log In", background: .brown) {
                             viewModel.login()
                         }
                     }
