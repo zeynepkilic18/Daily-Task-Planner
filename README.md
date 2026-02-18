@@ -11,12 +11,16 @@ A modern, robust, and user-friendly To-Do List application built with **SwiftUI*
 - **Custom Branding:** Features a custom-designed AppIcon and a professionally configured Launch Screen.
 
 ## 📸 Screenshots
-<img width="1024" hei<img width="407" height="837" alt="Ekran Resmi 2026-02-14 16 21 19" src="https://github.com/user-attachments/assets/ac8f68a8-d24e-4e75-b0fb-10e66508bf48" />
-ght="1024" alt="Adsız tasarım" src="https://github.com/user-attachments/assets/102e8d73-bc23-4574-b11f-81d8eecc9750" />
-<img width="407" height="839" alt="Ekran Resmi 2026-02-14 16 21 57" src="https://github.com/user-attachments/assets/228dfb8c-fb8b-46cc-8c20-2cbd565d4bed" /><img width="404" height="83<img width="403" height="840" alt="Ekran Resmi 2026-02-14 16 23 55" src="https://github.com/user-attachments/assets/075b0996-58cd-4e46-89f2-ace4fbba7bb6" />
-8" alt="Ekran Resmi 2026-02-14 16 23 16" src="https://github.com/user-attachments/assets/a4e<img width="401" height="837" alt="Ekran Resmi 2026-02-14 16 25 13" src="https://github.com/user-attachments/assets/8de836bd-2623-4a9e-9941-e43c444c48b4" />
-d93f0-fa0a-431e-aaff-95289c571184" />
 
+<img width="407" height="837" alt="Ekran Resmi 2026-02-14 16 21 19" src="https://github.com/user-attachments/assets/55b138cf-746f-46d9-9444-d22582161ca8" />
+
+<img width="407" height="839" alt="Ekran Resmi 2026-02-14 16 21 57" src="https://github.com/user-attachments/assets/753012e4-2b51-4c13-951b-ea08830adf7f" />
+
+<img width="404" height="838" alt="Ekran Resmi 2026-02-14 16 23 16" src="https://github.com/user-attachments/assets/d841c934-1c57-4b96-b0aa-723d34563f4f" />
+
+<img width="403" height="840" alt="Ekran Resmi 2026-02-14 16 23 55" src="https://github.com/user-attachments/assets/bc6d77ab-8dba-42f8-ac94-f5d3ccf6fd93" />
+
+<img width="402" height="839" alt="Ekran Resmi 2026-02-14 16 24 27" src="https://github.com/user-attachments/assets/29a4239d-f674-4d26-b031-e714df33dc79" />
 
 
 ## 🛠 Tech Stack
